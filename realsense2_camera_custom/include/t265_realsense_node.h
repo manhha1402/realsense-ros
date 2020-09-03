@@ -2,7 +2,7 @@
 
 #include <base_realsense_node.h>
 
-namespace realsense2_camera
+namespace realsense2_camera_custom
 {
     class T265RealsenseNode : public BaseRealSenseNode
     {
